@@ -1,0 +1,32 @@
+{
+  "mode": "partial",
+  "kelas": [
+    "mobil",
+    "motor"
+  ],
+  "epochs": 10,
+  "akurasi_val_terbaik": 1.0,
+  "epoch_terbaik": 3,
+  "epoch_pertama_val_90": 1,
+  "akurasi_test": 1.0,
+  "loss_test": 0.0024461769181388345,
+  "confusion_test": [
+    [
+      5,
+      0
+    ],
+    [
+      0,
+      6
+    ]
+  ],
+  "jumlah_train": 92,
+  "jumlah_val": 11,
+  "jumlah_test": 11,
+  "waktu_pelatihan_s": 51.5,
+  "parameter_dilatih": 8394754,
+  "parameter_total": 11177538,
+  "device": "cpu",
+  "seed": 42,
+  "batch": 8
+}

@@ -1,0 +1,32 @@
+{
+  "mode": "scratch",
+  "kelas": [
+    "mobil",
+    "motor"
+  ],
+  "epochs": 10,
+  "akurasi_val_terbaik": 0.9090909090909091,
+  "epoch_terbaik": 4,
+  "epoch_pertama_val_90": 4,
+  "akurasi_test": 0.9090909090909091,
+  "loss_test": 0.1038617955266752,
+  "confusion_test": [
+    [
+      4,
+      1
+    ],
+    [
+      0,
+      6
+    ]
+  ],
+  "jumlah_train": 92,
+  "jumlah_val": 11,
+  "jumlah_test": 11,
+  "waktu_pelatihan_s": 94.8,
+  "parameter_dilatih": 11177538,
+  "parameter_total": 11177538,
+  "device": "cpu",
+  "seed": 42,
+  "batch": 8
+}
